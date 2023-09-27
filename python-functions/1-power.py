@@ -3,8 +3,7 @@
 def pow(a, b):
     return a ^ b
 
-print(pow(2, 2))
-print(pow(-2, 2))
-print(pow(10, -2))
-print(pow(-98, -10))
-
+pow(2, 2)
+pow(-2, 2)
+pow(10, -2)
+pow(-98, -10)
